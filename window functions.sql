@@ -72,8 +72,6 @@ BEGIN
     GROUP BY ProductID;
 END;
 
-GO
-
 EXECUTE AverageProductSales;
 
 GO
